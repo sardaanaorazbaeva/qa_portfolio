@@ -1,0 +1,40 @@
+QA Learning Resources
+A curated list of online courses, services, and platforms to help QA Engineers—both Manual and Automation—grow their skills.
+
+Resources are tagged as:
+🟢 Free
+🟡 Paid or Partially Paid
+
+Courses & Learning Platforms
+🟢 Test Automation University – Community-driven free platform by Applitools, with courses on Selenium, Cypress, JavaScript, and more.
+🟡 Ministry of Testing – Offers courses, talks, and curated content. Some free, most behind a Pro membership.
+🟡 Udemy – Popular platform with many QA and automation courses from different instructors. Prices vary.
+🟡 Coursera – Offers university-level courses in software testing and QA. Free to audit, certificates require payment.
+🟡 LinkedIn Learning – Offers structured QA learning paths with professional certificates.
+🟡 EdX – University-backed courses including software testing topics.
+🟢 QAOps - Free QA Learning Resources – Open-source curated list of free resources for testers.
+🟢 Software Testing Help – Blog offering tutorials, guides, and tool comparisons.
+🟢 Guru99 - Software Testing – Covers manual and automation testing concepts.
+🟢 Automation Step by Step – Easy-to-follow tutorials for beginners.
+
+YouTube Channels for QA
+🟢 Joe Colantonio – TestGuild – QA strategies, automation tools, expert interviews.
+🟢 Automation Step by Step – Selenium, Jenkins, Postman, API & CI/CD explained clearly.
+🟢 Naveen AutomationLabs – Manual testing, automation frameworks, Java, real-world examples.
+🟢 SDET-QA Techie – Selenium, TestNG, REST Assured, Java basics.
+🟢 Ajay Balamurugadas – Exploratory testing, real-world QA practices, testing challenges.
+🟢 LambdaTest – Cross-browser testing tools, live testing, automation insights.
+🟢 The Testing Academy (by Pramod Dutta) – Manual & automation testing, API, Postman, QA career roadmap.
+🟢 Software Testing Mentor – Test case writing, Jira, testing tools, QA interview prep.
+🟢 RCV Academy – Manual testing, Jira tutorials, ISTQB prep, Agile concepts.
+🟢 SelectorsHub – XPath & CSS selectors, automation testing productivity tips.
+🟢 Execute Automation – Advanced automation topics like SpecFlow, Selenium with C#, CI/CD.
+🟢 QAVBox – Cypress, Playwright, JavaScript for testers, E2E demos.
+
+Certification Resources
+🟡 ISTQB – Globally recognized certifications for manual and automation testers.
+🟡 Udemy - ISTQB Prep – Practice exams and training for certification.
+🟡 LinkedIn Learning – Courses to prepare for ISTQB and Agile certifications.
+
+Contribute
+If you know a great QA course, platform, or tutorial, feel free to open an issue or submit a pull request.
